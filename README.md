@@ -1,8 +1,8 @@
 # ToDoList-App
 To do List App is made up of HTML,CSS and Javascript
-This app is used to add your daily to do list, you acn add , remove and edit content from the list
+This app is used to add your daily to do list, you can add , remove and edit content from the list
 
-To install Project Title, follow these steps:
+To install Project,follow these steps:
 
 1. Clone the repository: git clone https://github.com/Aishwarya25kh/ToDoList-App.git
 2. Navigate to the project directory:cd ToDoList-App
